@@ -1,0 +1,6 @@
+{
+  "name": "Sudarshan & Ritisha | Royal Indian Wedding Invitation",
+  "description": "Experience the royal and modern luxury wedding celebration of Sudarshan Singh Chauhan and Ritisha Pawar. Interactive 3D palace entrance, auspicious muhurt countdown, ceremonies programme, venues, and Guest Wishes & Blessings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
